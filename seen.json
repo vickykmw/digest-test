@@ -37,11 +37,17 @@
   "https://arxiv.org/abs/2511.03217": [
     "2026-06-30"
   ],
+  "https://arxiv.org/abs/2511.03699": [
+    "2026-09-08"
+  ],
   "https://arxiv.org/abs/2511.04776": [
     "2026-05-20"
   ],
   "https://arxiv.org/abs/2511.08565": [
     "2026-05-16"
+  ],
+  "https://arxiv.org/abs/2601.03222": [
+    "2026-09-08"
   ],
   "https://arxiv.org/abs/2602.10324": [
     "2026-06-01",
@@ -293,6 +299,9 @@
   "https://arxiv.org/abs/2608.07446": [
     "2026-08-11"
   ],
+  "https://arxiv.org/abs/2608.12669": [
+    "2026-09-08"
+  ],
   "https://arxiv.org/abs/2608.13674": [
     "2026-08-18"
   ],
@@ -310,6 +319,9 @@
   ],
   "https://arxiv.org/abs/2608.20789": [
     "2026-08-25"
+  ],
+  "https://arxiv.org/abs/2608.21618": [
+    "2026-09-08"
   ],
   "https://arxiv.org/abs/2608.28228": [
     "2026-09-01"
@@ -361,11 +373,13 @@
   ],
   "https://hbr.org/podcast/2026/08/can-an-ai-powered-scribe-curb-physician-burnout": [
     "2026-08-25",
-    "2026-09-01"
+    "2026-09-01",
+    "2026-09-08"
   ],
   "https://hbr.org/podcast/2026/08/living-and-working-in-the-age-of-longevity": [
     "2026-08-25",
-    "2026-09-01"
+    "2026-09-01",
+    "2026-09-08"
   ],
   "https://hbr.org/podcast/2026/08/the-innovation-strategy-most-companies-miss": [
     "2026-08-18"
@@ -510,7 +524,8 @@
     "2026-06-30"
   ],
   "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai": [
-    "2026-09-01"
+    "2026-09-01",
+    "2026-09-08"
   ],
   "https://www.mckinsey.com/capabilities/quantumblack/our-insights/where-ai-agents-pay-off-a-practical-guide-to-the-economics-of-agentic-workflows": [
     "2026-08-25"
@@ -530,7 +545,8 @@
     "2026-07-28"
   ],
   "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-new-management-playbook-for-ai-how-to-move-faster-and-create-more-value": [
-    "2026-09-01"
+    "2026-09-01",
+    "2026-09-08"
   ],
   "https://www.mckinsey.com/featured-insights/mckinsey-explainers/where-ai-is-creating-real-value-in-real-estate": [
     "2026-05-16",
@@ -545,6 +561,12 @@
     "2026-05-15",
     "2026-05-17",
     "2026-05-18"
+  ],
+  "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead": [
+    "2026-09-08"
+  ],
+  "https://www.mckinsey.com/industries/financial-services/our-insights/at-last-customers-first-ai-powered-personalization-can-help-banks-create-value": [
+    "2026-09-08"
   ],
   "https://www.mckinsey.com/industries/financial-services/our-insights/earning-and-sustaining-trust-in-the-age-of-ai": [
     "2026-08-25"
